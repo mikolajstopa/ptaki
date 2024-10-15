@@ -1,0 +1,73 @@
+<!-- saved from url=(0032)https://car0tek.github.io/ptaki/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Atlas ptaków</title>
+    
+    <meta name="keywords" content="ptaki, dzwieki, atlas">
+    <meta name="description" content="atlas ptakow">
+    <meta name="author" content="Igor Filipek">
+    <meta name="robots" content="all">
+<style>
+    img{ width: 250px;}
+</style>
+</head> 
+<body> 
+<center>
+<div>
+<figure>
+<img src="./AtlasPtaków_files/szpak.jpg" alt="szpak">
+<figcaption><h2>Szpak Zwyczajny</h2></figcaption>
+</figure>
+<br>
+<audio controls="controls">
+<source src="szpak.mp3">
+</audio>
+<p>Szpak zwyczajny, szpak (Sturnus vulgaris) – gatunek średniej wielkości ptaka z rodziny szpakowatych (Sturnidae). Częściowo wędrowny. Pierwotnie zamieszkiwał wyłącznie Eurazję. Nie jest zagrożony wyginięciem. Dzięki introdukcji gatunek kosmopolityczny, w 13 podgatunkach występuje na każdym kontynencie poza Antarktydą; poza rodzimym zasięgiem także w Ameryce Północnej (od Jukatanu po Alaskę), Argentynie, Południowej Afryce, wschodniej Australii, Nowej Zelandii i okolicznych wyspach. Jest to gatunek inwazyjny.</p>
+</div>
+<div>
+<figure>
+<img src="./AtlasPtaków_files/jaskolka.jpg" alt="jaskolka">
+<figcaption><h2>Jaskółka Dymówka</h2></figcaption>
+</figure>
+<br>
+<audio controls="">
+<source src="jaskolka.mp3">
+</audio>
+<p>Dymówka, jaskółka dymówka (Hirundo rustica) – gatunek niewielkiego ptaka wędrownego z rodziny jaskółkowatych (Hirundinidae).</p>
+</div>
+<div>
+<figure>
+<img src="./AtlasPtaków_files/wilga.jpg" alt="wilga">
+<figcaption><h2>Wilga Zwyczajna</h2></figcaption>
+</figure>
+<br>
+<audio controls="controls">
+<source src="wilga.mp3">
+</audio>
+<p>Wilga zwyczajna (Oriolus oriolus) – gatunek średniej wielkości wędrownego ptaka wróblowego z rodziny wilgowatych (Oriolidae), jedyny z tej rodziny rozmnażający się w północnej strefie umiarkowanej. Nie jest zagrożony wyginięciem, populacja uznawana jest za stabilną.</p>
+</div>
+<div>
+<figure>
+<img src="./AtlasPtaków_files/drozd.jpg" alt="drozd">
+<figcaption><h2>Drozd Śpiewak</h2></figcaption>
+</figure>
+<br>
+<audio controls="controls">
+<source src="spiewak.mp3">
+</audio>
+<p>Drozd śpiewak, śpiewak (Turdus philomelos) – gatunek średniej wielkości ptaka z rodziny drozdowatych (Turdidae), zamieszkującego Eurazję. Wierzch ciała brązowy o ciepłym odcieniu, kuper i pokrywy nadogonowe oliwkowe, ogon i wierzch głowy pomarańczowobrązowe. Spód ciała kremowy z gęstymi brązowymi plamkami. Wyróżnia się trzy podgatunki. Do jego charakterystycznej piosenki, w której powtarza muzyczne frazy, często odnoszono się w poezji.</p>
+</div>
+<div>
+<figure>
+<img src="./AtlasPtaków_files/gil.jpg" alt="gil">
+<figcaption><h2>Gil Zwyczajny</h2></figcaption>
+</figure>
+<br>
+<audio controls="controls">
+<source src="gil.mp3">
+</audio>
+<p>Gil zwyczajny, gil (Pyrrhula pyrrhula) – gatunek małego ptaka z rodziny łuszczakowatych (Fringillidae), zamieszkujący Eurazję. Nie jest zagrożony.</p>
+</div>
+</center>
+ 
+
+</body></html>
